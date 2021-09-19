@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.getElementById("root");new class{constructor(){this.render()}render(){const t=document.createElement("div"),n={class:"test-div_wrapper",innerHTML:'\n        <h1 class="page-title">Hello world!</h1>\n        '};Object.assign(t,n),e.appendChild(t)}}})();

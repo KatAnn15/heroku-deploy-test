@@ -1,0 +1,15 @@
+body {
+  background-color: rgba(60, 60, 87, 0.774);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .test-div_wrapper {
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    border: 1px solid rgba(128, 128, 128, 0.644);
+    color: white;
+    text-align: center;
+  }
+}
